@@ -1,0 +1,57 @@
+
+body{
+	margin: 0;
+ 	padding: 0;
+	background: url('background.jpg');
+	background-size: cover;
+}
+
+.navbar{
+	background: white;
+	padding-right: 40px;
+	height: 40px;
+	line-height: 0;
+	font-size: 0;
+}
+
+.navbar img{
+	height: 40px;
+	width: 40px;
+	float:right;
+	clear: left;
+}
+
+
+
+
+.logo{
+	display: block;
+	margin-top: 100px;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.toolbar{
+	margin-top: 55px;
+	text-align: center;
+}
+
+i {
+	color: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	font: 'Roboto', sans-serif;
+}
+
+span{
+	padding: 20px;
+}
+
+.content {
+	color: white;
+	width: 40%;
+	margin: 50px auto;
+}
+
+.content h1 {
+	text-align: center;
+}
